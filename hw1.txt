@@ -1,0 +1,28 @@
+CS104 HW1
+Author:Zhida Chen(User name:zhidache@usc.edu, Student ID: 8743942546)
+
+Problem 1.
+
+Part(a): 1, 4 
+Part(b):2,4
+Part(c):4
+Part(d):2
+Part(e):2,3
+
+Problem 2.
+
+Part(a):5
+Part(b):1
+Part(c): 
+1) git add hw1q2b.cpp  then   git commit -m "some info"
+2) git log -p -3
+
+Part(d):git will prompt you for a message using the editor you configured in section 3
+Part(e):git pull
+
+Probelm 3.
+1) the output is 15 (2+2+3+3+5).
+2) if 2 is not the factor of n, 2 will keep imcrement untill it become the factor of n. Then n will decrease from n/(2+x), and n will eventually less than 2 which is the base case, and the recursion will end. 
+3)it will output the sum of all of n's factor. The resason is stated in 2). 
+
+

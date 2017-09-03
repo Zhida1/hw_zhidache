@@ -11,7 +11,7 @@ Part(e):2,3
 
 Problem 2.
 
-Part(a):5
+Part(a):3
 Part(b):1
 Part(c): 
 1) git add hw1q2b.cpp  then   git commit -m "some info"
